@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4121ae3-87ed-4d24-9724-299c7c835725" name="Default Changelist" comment="" />
+    <list default="true" id="b4121ae3-87ed-4d24-9724-299c7c835725" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../laba3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba3/out/production/laba3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba3/out/production/laba3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laba3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            <state relative-caret-position="323">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -23,15 +32,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AAA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="578">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#996#997#0" expanded="true" />
                 <element signature="e#1028#1029#0" expanded="true" />
+                <element signature="e#1079#1080#0" expanded="true" />
                 <element signature="e#1112#1113#0" expanded="true" />
+                <element signature="e#1157#1158#0" expanded="true" />
                 <element signature="e#1189#1190#0" expanded="true" />
+                <element signature="e#1237#1238#0" expanded="true" />
                 <element signature="e#1271#1272#0" expanded="true" />
+                <element signature="e#1322#1323#0" expanded="true" />
                 <element signature="e#1360#1361#0" expanded="true" />
+                <element signature="e#1407#1408#0" expanded="true" />
                 <element signature="e#1443#1444#0" expanded="true" />
               </folding>
             </state>
@@ -66,6 +81,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -82,12 +100,12 @@
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,11 +123,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laba7" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,11 +172,12 @@
       <updated>1548588030963</updated>
       <workItem from="1548588217734" duration="8846000" />
       <workItem from="1548617084216" duration="2685000" />
+      <workItem from="1550222203254" duration="39000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11531000" />
+    <option name="totallyTimeSpent" value="11570000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -169,14 +190,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
@@ -189,6 +208,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -202,24 +222,30 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AAA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="578">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
             <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
             <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1157#1158#0" expanded="true" />
             <element signature="e#1189#1190#0" expanded="true" />
+            <element signature="e#1237#1238#0" expanded="true" />
             <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#1322#1323#0" expanded="true" />
             <element signature="e#1360#1361#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
             <element signature="e#1443#1444#0" expanded="true" />
           </folding>
         </state>
@@ -232,10 +258,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
